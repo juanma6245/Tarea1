@@ -8,6 +8,7 @@ public class Tarea1 {
 		System.out.println("Paso 4");
 		System.out.println("Paso 5");
 		System.out.println("Paso 8");
+		System.out.println("Paso 10");
 	}
 
 }
